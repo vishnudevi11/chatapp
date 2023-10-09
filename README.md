@@ -1,3 +1,42 @@
+#Chat-App
+Created react **Chat-Application**,where user can engage in conversions.The application allows user to search for conversation by contact name,
+view,send message and manage conversation.
+________________________________________________________________________________________________________________________________________________
+##**Tech Stack:**
+* React
+* React router
+* Redux(optional)
+* CSS(Styling sheet
+________________________________________________________________________________________________________________________________________________
+##**How to run the application?**
+* Install dependencies: npm install
+* Start the server: npm start
+* Build the development file:npm run build
+* Hosted link:https://chat-app-25e3b.web.app/
+  ______________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
